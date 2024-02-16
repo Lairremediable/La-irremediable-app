@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819029967278",
+    "project_id": "la-irremediable-c8ee9",
+    "storage_bucket": "la-irremediable-c8ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819029967278:android:f22f7615d3501ccf00883f",
+        "android_client_info": {
+          "package_name": "com.lairremediable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaFN3lv-IXkQzWhuUHRmxPB6WJS4MgEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819029967278:android:0bc25a4a4f4d486400883f",
+        "android_client_info": {
+          "package_name": "com.lairremediable.repartidor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaFN3lv-IXkQzWhuUHRmxPB6WJS4MgEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
